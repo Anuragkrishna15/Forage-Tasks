@@ -1,0 +1,17 @@
+[
+    {
+        "city": "petalborough",
+        "kind": "rental_car",
+        "title": "Petalborough Car Rentals"
+    },
+    {
+        "city": "rustburg",
+        "kind": "rental_car",
+        "title": "Rustburg Auto Rentals"
+    },
+    {
+        "city": "shaleport",
+        "kind": "rental_car",
+        "title": "Shaleport Vehicle Hire"
+    }
+]

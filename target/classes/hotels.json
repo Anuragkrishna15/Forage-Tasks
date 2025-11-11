@@ -1,0 +1,17 @@
+[
+    {
+        "city": "petalborough",
+        "kind": "hotel",
+        "title": "Petalborough Grand Hotel"
+    },
+    {
+        "city": "rustburg",
+        "kind": "hotel",
+        "title": "Rustburg Inn"
+    },
+    {
+        "city": "shaleport",
+        "kind": "hotel",
+        "title": "Shaleport Resort"
+    }
+]
